@@ -8,6 +8,7 @@ public class Swapping {
 		
         int a,b,temp;
         Scanner sin = new Scanner(System.in);
+		
         System.out.println("Enter a:");
         a = sin.nextInt();
         System.out.println("Enter b:");
